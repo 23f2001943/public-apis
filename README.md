@@ -694,6 +694,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Random Useless Facts](https://uselessfacts.jsph.pl/) | Get useless, but true facts | No | Yes | Unknown |
 | [Techy](https://techy-api.vercel.app/) | JSON and Plaintext API for tech-savvy sounding phrases | No | Yes | Unknown |
 | [Yo Momma Jokes](https://github.com/beanboi7/yomomma-apiv2) | REST API for Yo Momma Jokes | No | Yes | Unknown |
+| [Bored](https://bored-api.appbrewery.com/) | Find random activities to do when you're bored | No | Yes | Yes |
 
 **[⬆ Back to Index](#index)**
 <br >
